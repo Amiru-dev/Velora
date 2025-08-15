@@ -9,7 +9,7 @@ Velora is a full-featured e-commerce web application developed using:
 - Database: MySQL (see `velora.sql`)
 
 
-## How to Reconstruct the Project
+## How to reconstruct the Project
 
 ### 1. Download all split files and combine them.
 ### 2. Then extract them
